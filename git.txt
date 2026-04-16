@@ -1,0 +1,9 @@
+git init
+git add
+git commit -m
+git remote -v
+git remote add origin
+git push 
+git checkout 
+git merge 
+
